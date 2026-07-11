@@ -1,0 +1,26 @@
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*~
+
+# Vim
+*.swp
+*.swo
+
+# Nano backup files
+*.save
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+
+# Local test configs (optional)
+test/
